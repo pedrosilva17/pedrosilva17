@@ -14,7 +14,7 @@
 <p align="left">
 <p align="left"> 🐦 Twitter: 
 <p align="left"> <a href="https://twitter.com/pedro_as17" target="blank"><img src="https://img.shields.io/twitter/follow/pedro_as17?logo=twitter&style=for-the-badge" alt="pedro_as17" /></a> </p>
-ℹ️ Linkedin: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pedrosilva17" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/pedro-silva-40b9b5109?trk=profile-badge">Pedro Silva</a> (Linkedin) </div>
+ℹ️ Linkedin: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pedrosilva17" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/pedro-silva-40b9b5109?trk=profile-badge">Pedro Silva</a> </div>
 <p align="left">
 <p align="left"> Thanks for visiting!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrosilva17&label=Profile%20views&color=0e75b6&style=flat" alt="pedrosilva17" /> </p>
