@@ -1,21 +1,51 @@
-<h1 align="center">Hello, I'm Pedro Silva</h1>
-<h3 align="center">2nd year student @ FEUP | LEIC </h3>
+<img src="header.png">
 
 <h3 align="left">About me:</h3>
-👨‍💻 Joined an Informatics Engineering course with no prior coding experience, enjoying my stay so far (with the exception of a certain 1st year subject...
-).
-<p align="left">
-🌱 This profile will mostly be used to register part of my adventure as a programmer and save other personal projects. Don't expect immaculate coding practices!
 
-<h3 align="left">Languages/Tools I'm familiar with (Please update this when you can...):</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+👨‍💻 I'm a third-year student of Informatics and Computer Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). Joined in 2020 with no prior coding experience \
+and I have no regrets whatsoever.
 
-<h3 align="left">Socials:</h3>
+🌱 I'm eager to learn and to improve my skills in anything, especially when it comes to programming.
+
+🤖 Currently working on a discord bot written in Python related to Yu-Gi-Oh, a trading card game I like. Hopefully the first iteration will be finished \ 
+this year if I don't procrastinate too much.
+
+<h3 align="left">Some of the languages and tools I've worked with:</h3>
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://cplusplus.com/" style="text-decoration:none" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pedrosilva17&count_private=true&theme=algolia" alt="pedrosilva17 github stats"/>
+
+<h3 align="left">Find me on:</h3>
+
 <p align="left">
-<p align="left"> 🐦 Twitter: 
-<p align="left"> <a href="https://twitter.com/pedro_as17" target="blank"><img src="https://img.shields.io/twitter/follow/pedro_as17?logo=twitter&style=for-the-badge" alt="pedro_as17" /></a> </p>
-ℹ️ Linkedin: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pedrosilva17" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/pedro-silva-40b9b5109?trk=profile-badge">Pedro Silva</a> </div>
+  <a href="https://twitter.com/pedro_as17" target="blank"><img src="https://github.com/pedrosilva17/pedrosilva17/blob/main/socials/twitter.png" title="Twitter" alt="twitter" height="40"></a>
+  <a href="https://instagram.com/pedro_as17" target="blank"><img src="https://github.com/pedrosilva17/pedrosilva17/blob/main/socials/instagram.png" title="Instagram" alt="instagram" height="40"></a>
+  <a href="https://linkedin.com/in/pedrosilva17" target="blank"><img src="https://github.com/pedrosilva17/pedrosilva17/blob/main/socials/linkedin.png" title="Linkedin" alt="linkedin" height="40"></a>
+  <a href="https://steamcommunity.com/id/theoneseven"><img src="https://github.com/pedrosilva17/pedrosilva17/blob/main/socials/steam.png" title="Steam" alt="steam" height="40"></a>
+</p>
+
+<h3 align="left">And finally, a snake eating my contributions:</h3>
+<img src="https://github.com/pedrosilva17/pedrosilva17/blob/output/github-contribution-grid-snake.svg" alt="pedrosilva17 snake graph"/>
+
+
 <p align="left">
-<h3 align="left"> 👋 Thanks for visiting! </h3>
-<p align="left"> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrosilva17&label=Profile%20views&color=0e75b6&style=flat" alt="pedrosilva17" /> </p>
+  <img src="misc_icons/oldpc.gif" height="25"/>
+  <img src="https://komarev.com/ghpvc/?username=pedrosilva17"/>
+  <img src="misc_icons/oldpc.gif" height="25"/>
+</p>
+
+
