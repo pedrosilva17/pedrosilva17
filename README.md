@@ -46,8 +46,6 @@
 </p>
 
 <h3 align="left">Thanks for visiting!</h3>
-<img src="https://github.com/pedrosilva17/pedrosilva17/blob/output/github-contribution-grid-snake.svg" alt="pedrosilva17 snake graph"/>
-
 
 <p align="left">
   <img src="misc_icons/oldpc.gif" height="25"/>
