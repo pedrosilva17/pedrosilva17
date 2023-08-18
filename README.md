@@ -6,7 +6,7 @@
 
 <h3 align="left">About me:</h3>
 
-👨‍💻 I'm a third-year student of Informatics and Computer Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
+👨‍💻 I'm a first-year student of the [Master in Informatics and Computer Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_origem=CAND) at [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
 
 🌱 I'm eager to learn and to improve my skills in anything, especially when it comes to programming
 
