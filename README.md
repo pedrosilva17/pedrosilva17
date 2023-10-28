@@ -34,7 +34,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<img src="https://github-readme-stats-pedrosilva17.vercel.app/api?username=pedrosilva17&count_private=true&theme=algolia" alt="pedrosilva17 github stats"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosilva17&show_icons=true&theme=merko)
 
 <h3 align="left">Find me on:</h3>
 
