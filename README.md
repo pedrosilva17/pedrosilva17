@@ -8,7 +8,7 @@
 
 🧩 Outside of programming, I'm a big fan of videogames, wrestling and art/history museums
 
-🌐 Find out more at <a href="https://pedrosilvadev.pt" target="_blank">pedrosilvadev.pt</a>
+🌐 Find out more at <a href="https://frompedrosilva.com" target="_blank">frompedrosilva.com</a>
 
 <h3 align="left">Find me on:</h3>
 
