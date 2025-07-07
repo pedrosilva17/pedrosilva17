@@ -2,9 +2,9 @@
   Hello, I'm Pedro Silva!
 </h1>
 
-🎓 I'm a second-year student of the [Master in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_origem=CAND) at [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
+🎓 I'm a software engineer with an [MSc in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742&pv_origem=CAND) at [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
 
-👨‍💻 Working on some personal projects whenever I have a break from university
+👨‍💻 Passion for web development and computer graphics, often materialize ideas into personal projects
 
 🧩 Outside of programming, I'm a big fan of videogames, wrestling and art/history museums
 
